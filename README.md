@@ -1,4 +1,4 @@
-******Running On 9090 for Lab*******
+******Running On 9090 for Lab******
 dropwizard-helloworld
 =====================
 
